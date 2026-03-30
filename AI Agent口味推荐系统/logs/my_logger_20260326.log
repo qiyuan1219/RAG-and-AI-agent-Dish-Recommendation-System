@@ -1,0 +1,31 @@
+2026-03-26 23:09:45,106 - my_logger - ERROR - vector_store.py:113 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品口味100问.txt失败status_code: 400 
+ code: InvalidParameter 
+ message: <400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents
+2026-03-26 23:09:46,244 - my_logger - ERROR - vector_store.py:113 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品大全.txt失败status_code: 400 
+ code: InvalidParameter 
+ message: <400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents
+2026-03-26 23:09:47,683 - my_logger - INFO - vector_store.py:111 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品知识库_v2.txt成功
+2026-03-26 23:10:18,644 - my_logger - ERROR - vector_store.py:113 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品口味100问.txt失败status_code: 400 
+ code: InvalidParameter 
+ message: <400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents
+2026-03-26 23:10:19,672 - my_logger - ERROR - vector_store.py:113 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品大全.txt失败status_code: 400 
+ code: InvalidParameter 
+ message: <400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents
+2026-03-26 23:10:19,672 - my_logger - INFO - vector_store.py:89 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品知识库_v2.txt,跳过
+2026-03-26 23:11:26,829 - my_logger - ERROR - vector_store.py:113 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品口味100问.txt失败status_code: 400 
+ code: InvalidParameter 
+ message: <400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents
+2026-03-26 23:11:28,094 - my_logger - ERROR - vector_store.py:113 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品大全.txt失败status_code: 400 
+ code: InvalidParameter 
+ message: <400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents
+2026-03-26 23:11:28,095 - my_logger - INFO - vector_store.py:89 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品知识库_v2.txt,跳过
+2026-03-26 23:12:20,753 - my_logger - INFO - vector_store.py:116 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品口味100问.txt成功
+2026-03-26 23:12:23,475 - my_logger - INFO - vector_store.py:116 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品大全.txt成功
+2026-03-26 23:12:23,485 - my_logger - INFO - vector_store.py:89 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品知识库_v2.txt,跳过
+2026-03-26 23:13:44,310 - my_logger - INFO - vector_store.py:93 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品口味100问.txt,跳过
+2026-03-26 23:13:44,311 - my_logger - INFO - vector_store.py:93 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品大全.txt,跳过
+2026-03-26 23:13:44,311 - my_logger - INFO - vector_store.py:93 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品知识库_v2.txt,跳过
+2026-03-26 23:15:04,701 - my_logger - INFO - vector_store.py:120 - [加载知识库]:D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\用户喜好大全.txt成功
+2026-03-26 23:15:04,712 - my_logger - INFO - vector_store.py:93 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品口味100问.txt,跳过
+2026-03-26 23:15:04,712 - my_logger - INFO - vector_store.py:93 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品大全.txt,跳过
+2026-03-26 23:15:04,712 - my_logger - INFO - vector_store.py:93 - [加载知识库]:文件已存在D:\Project_Package\PythonProject\AI Agent口味推荐系统\data\菜品知识库_v2.txt,跳过
